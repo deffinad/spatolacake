@@ -1,56 +1,11 @@
-# CodeIgniter 4 Framework
+# Overview
 
-## What is CodeIgniter?
-
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
-
-This repository holds the distributable version of the framework,
-including the user guide. It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
-
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-
-## Important Change with index.php
-
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+# Interface
+![image](https://user-images.githubusercontent.com/56620541/224932079-770f34fa-5bbe-4957-9300-48ed938c4200.png)
+![image](https://user-images.githubusercontent.com/56620541/224932203-49814386-4f4b-4107-b0c0-89e398e97d44.png)
+![image](https://user-images.githubusercontent.com/56620541/224932252-40357ac0-0d50-4d57-adf5-558ec699789b.png)
+![image](https://user-images.githubusercontent.com/56620541/224932288-6b497255-9a51-44c1-a731-c568df9fb65f.png)
+![image](https://user-images.githubusercontent.com/56620541/224932392-a5e3b7cb-c30b-40a6-a9fa-9892f8a55d55.png)
+![image](https://user-images.githubusercontent.com/56620541/224932470-4a656aa1-609e-4df4-82e8-4ebcff544bba.png)
+![image](https://user-images.githubusercontent.com/56620541/224932595-f1f4cbfd-47dc-45ca-a168-59d7eca2d71a.png)
+![image](https://user-images.githubusercontent.com/56620541/224932681-6f6f70e8-9266-4d15-9c59-6714b82be844.png)
