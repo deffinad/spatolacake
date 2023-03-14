@@ -10,3 +10,8 @@ Website ini merupakan website e-marketing Spatola Cake, website promosi khusus u
 ![image](https://user-images.githubusercontent.com/56620541/224932470-4a656aa1-609e-4df4-82e8-4ebcff544bba.png)
 ![image](https://user-images.githubusercontent.com/56620541/224932595-f1f4cbfd-47dc-45ca-a168-59d7eca2d71a.png)
 ![image](https://user-images.githubusercontent.com/56620541/224932681-6f6f70e8-9266-4d15-9c59-6714b82be844.png)
+
+# Team
+<ul>
+  <li><a href="https://github.com/andinirarizki/">Andinira Rizki</a></li>
+</ul>
