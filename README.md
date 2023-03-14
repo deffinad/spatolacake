@@ -1,5 +1,5 @@
 # Overview
-Website ini merupakan website e-marketing Spatola Cake, website promosi khusus untuk pengguna agar dapat melihat informasi-informasi mengenai produk dengan detail. Seperti melihat menu, harga, informasi open pre-order, bagaimana pembayarannya, dan informasi lainnya mengenai Spatola Cake. Selain itu, website e- marketing Spatola Cake dapat melakukan transaksi pembayaran. Website ini dibuat menggunakan PHP dengan framework Codeigniter 4, Boostrap, Midtrans Payment. <a hre="spatolacake.site">Lihat Disini </a>
+Website ini merupakan website e-marketing Spatola Cake, website promosi khusus untuk pengguna agar dapat melihat informasi-informasi mengenai produk dengan detail. Seperti melihat menu, harga, informasi open pre-order, bagaimana pembayarannya, dan informasi lainnya mengenai Spatola Cake. Selain itu, website e- marketing Spatola Cake dapat melakukan transaksi pembayaran. Website ini dibuat menggunakan PHP dengan framework Codeigniter 4, Boostrap, Midtrans Payment. <a href="spatolacake.site">Lihat Disini </a>
 
 # Interface
 ![image](https://user-images.githubusercontent.com/56620541/224932079-770f34fa-5bbe-4957-9300-48ed938c4200.png)
